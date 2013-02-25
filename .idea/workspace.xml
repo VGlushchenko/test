@@ -4,6 +4,7 @@
     <list default="true" id="1184810c-899a-4f95-b81c-56d1c4153cc4" name="Default" comment="" />
     <ignored path="test.iws" />
     <ignored path=".idea/workspace.xml" />
+    <file path="/web.xml" changelist="1184810c-899a-4f95-b81c-56d1c4153cc4" time="1361825455292" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +81,7 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="34" selection-start="216" selection-end="216" vertical-scroll-proportion="0.398827">
+            <state line="8" column="22" selection-start="293" selection-end="293" vertical-scroll-proportion="0.398827">
               <folding />
             </state>
           </provider>
@@ -496,7 +497,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="34" selection-start="216" selection-end="216" vertical-scroll-proportion="0.398827">
+        <state line="8" column="22" selection-start="293" selection-end="293" vertical-scroll-proportion="0.398827">
           <folding />
         </state>
       </provider>
